@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix AEGIS — Premium Pest Control \u0026 Protection Services",
+  "description": "Minimalist high-end pest control and environmental protection service featuring interactive 3D shield WebGL experiences, eco-conscious treatment, and instant inspection booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
